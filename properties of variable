@@ -1,0 +1,4 @@
+
+First_name = "Code"
+last_name = "Book"
+print(firstst_name, last_name)
